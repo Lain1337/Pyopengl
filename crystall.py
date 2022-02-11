@@ -72,4 +72,5 @@ def main():
         Iqosaedr()
         pygame.display.flip()
         pygame.time.wait(10)
-main() 
+if __name__ == "__main__":
+   main()
